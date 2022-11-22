@@ -2,7 +2,7 @@
 #### I am the creator of the Scrav discord bot
 I code for fun some things!
 
-Skills: JS / php / HTML / Python / Java / Node.JS / C# / CSS
+Skills: JS / php / HTML / Python / Java / Node.JS / C# / CSS / Lua
 
 - 🔭 I’m currently working on the Scrav discord bot 
 - 🌱 I’m currently learning Python 
