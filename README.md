@@ -1,20 +1,24 @@
-### Hi there 👋, im Ben
-#### I am the creator of the Scrav discord bot
-I code for fun some things!
+## Hello World! I'm Ben 👋
 
-Skills: JS / php / HTML / Python / Java / Node.JS / C# / CSS / Lua
+I am a Software Engineer!
 
-- 🔭 I’m currently working on the Scrav discord bot 
-- 🌱 I’m currently learning Python 
-- 💬 Ask me about anything 
-- 📫 How to reach me: Discord, CorruptedBytesج#8174 
-- ⚡ Fun fact: Im german 
+## 📘 About Me
 
+<img src="sus.png" height="200" align="right">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PServerYT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCADgxyRpu3VtSpV67lcNxDQ)
+- 💻 I’m currently working @ CorruptedMusic
+- ☁️ I'm interested in Applications in C#
+- 🛠️ I’m currently developing a Music Application
+- 📖 I’m currently preparing to get my Motorcycle Drivers Licence
+- 🌎 Everything in the world is connected in some way
+#
+<p align="center">
+   <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
+</i>
+   
+<br>
+<br>
+<a target="_blank" href="mailto:k3botxyz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
 
-[<img alt="dc">](https://discord.c99.nl/widget/theme-4/1002029680876068944.png) 
-
-![GitHub metrics](https://metrics.lecoq.io/PServerYT)  
-
-![Profile views](https://gpvc.arturio.dev/PServerYT)  
+</p>       
