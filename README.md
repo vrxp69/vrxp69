@@ -1,26 +1,28 @@
+<p align="center"> <img src="https://gpvc.arturio.dev/PServerYT" alt="PServerYT" /> </p>
 
-## Hello World! I'm Ben 👋
+![Header](./header.png)
 
-I am a Software Engineer!
+- 🌊 https://waveshort.eu
+- 🕶️ https://aio-leaks.eu
 
-## 📘 About Me
+C͟o͟n͟t͟a͟c͟t͟
+- 📫 Reach me at: CorruptedBytes#1234 for custom work or any inquires.
 
-<img src="sus.png" height="200" align="right">
 
-- 💻 I’m currently working @ CorruptedMusic
-- ☁️ I'm interested in Applications in C#
-- 🛠️ I’m currently developing a Music Application
-- 📖 I’m currently preparing to get my Motorcycle Drivers Licence
-- 🌎 Everything in the world is connected in some way
-#
-![Discord Presence](https://lanyard.cnrad.dev/api/1002029680876068944)
+A͟b͟o͟u͟t͟ ͟m͟e͟
+- 🌱 Language: English/German
+- 👀 Interested in Security | Automation | Frontend | Backend
+- 🌱 I work with Python | html/css | JavaScript | Java | C# | php
+
+<p href="CorruptedBytes" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1002029680876068944/>
+</p>
+
+<h1 align="center">Stats</h1>
+<a href="https://github.com/PServerYT"></a>
 <p align="center">
-   <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
-</i>
-   
-<br>
-<br>
-<a target="_blank" href="mailto:k3botxyz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PServerYT&show_icons=true&theme=midnight-purple" />
+</p>
 
-</p>       
+
+![Footer](./footer.png)
