@@ -1,3 +1,4 @@
+
 ## Hello World! I'm Ben 👋
 
 I am a Software Engineer!
@@ -12,6 +13,7 @@ I am a Software Engineer!
 - 📖 I’m currently preparing to get my Motorcycle Drivers Licence
 - 🌎 Everything in the world is connected in some way
 #
+![Discord Presence](https://lanyard.cnrad.dev/api/1002029680876068944)
 <p align="center">
    <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
 </i>
