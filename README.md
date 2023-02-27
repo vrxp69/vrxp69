@@ -6,7 +6,7 @@
 - 🕶️ https://aio-leaks.eu
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: CorruptedBytes#1234 for custom work or any inquires.
+- 📫 Reach me at: CorruptedBytes#0069 for custom work or any inquires.
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
