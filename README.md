@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A developer from germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrxp69&label=Profile%20views&color=0e75b6&style=flat" alt="vrxp" /> </p><a href="https://wakatime.com/badge/user/d5744c50-a959-42a6-8ed9-572c27b3d65b/project/953ffeee-8cc6-4ba6-b1f4-badd2e077c9c"><img src="https://wakatime.com/badge/user/d5744c50-a959-42a6-8ed9-572c27b3d65b/project/953ffeee-8cc6-4ba6-b1f4-badd2e077c9c.svg" alt="wakatime"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrxp69&label=Profile%20views&color=0e75b6&style=flat" alt="vrxp" /> </p><a href="https://wakatime.com/@d5744c50-a959-42a6-8ed9-572c27b3d65b"><img src="https://wakatime.com/badge/user/d5744c50-a959-42a6-8ed9-572c27b3d65b.svg" alt="Total time coded since Mar 4 2023" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrxp69" alt="vrxp" /></a> </p>
 
